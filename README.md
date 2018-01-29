@@ -18,5 +18,5 @@ Some common script, reduce duplication of artificial operation
 * 3、假如有itemCode为tommytest000的商品正向图片放在了images1目录中，则必须有一个此商品的反向图片放在images2目录中
 
 ## network
-家里的电脑进行断网，这个批处理可以在wifi断开后自动连接
+家里的电脑经常断网，这个批处理可以在wifi断开后自动连接
 
